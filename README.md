@@ -1,4 +1,7 @@
 # DIARIO DI BORDO
+## [03/04/24]
+### OPEN BETA
+Chat con funzionalità di base in beta
 
 ## [27/03/24]
 ### FRONT END
